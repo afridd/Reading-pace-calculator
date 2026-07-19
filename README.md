@@ -11,11 +11,11 @@ A simple and efficient Python script that helps you plan your reading schedule. 
 * **Python 3.6 or higher** (The script uses f-strings for formatting).
 
 ## How to Use
-1. Save the code in a file named `reading_calculator.py`.
+1. Save the code in a file named `reading pace calculator.py`.
 2. Open your terminal or command prompt.
-3. Run the script using the following command:
+3. Run the script using the following command (the quotes are required because of the spaces in the filename):
    ```bash
-   python reading_calculator.py
+   python "reading pace calculator.py"
    ```
 4. Follow the on-screen prompts to enter your numbers.
 
@@ -48,4 +48,3 @@ Enter the number of pages: 0
 Enter the number of days: 5
 You must enter value greater than 0
 ```
-
