@@ -17,7 +17,7 @@ else:
     days_str="day"
   else:
     days_str="days"
-  print(f"You must read {pages_per_day} {page_str} to complete the book in {days} {days_str}")
+  print(f"\nYou must read {pages_per_day} {page_str} to complete the book in {days} {days_str}")
       
       
     
